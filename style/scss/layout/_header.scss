@@ -12,7 +12,7 @@ header {
   filter: invert(1);
 
   &.invert {
-    background-color: #fff;
+    background-color: transparent;
     border-color: #000;
     filter: none;
     transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
