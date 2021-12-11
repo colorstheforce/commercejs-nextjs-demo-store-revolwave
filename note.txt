@@ -1,2 +1,6 @@
+In the top of the Revolwave.io, If i could get the revolwave banana banner,
+would making the backwound of that almost transparent where the moving backround
+is seen, but can also see like a hue of the bannana, and have the words Solid.
+
 Countdown timer example 01
 https://sathish2905.github.io/sample-website-templates/tech-city-free-coming-soon-bootstrap-responsive-template/
